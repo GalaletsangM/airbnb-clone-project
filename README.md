@@ -25,5 +25,6 @@ The goal is to build a functional web application that allows users to browse pr
    * User authentication
   
 4. Primary Pages
-   |# Page |# Description |
-   |Property Listing |Grid display of available properties with filters |
+   |  Pages  | Description |
+   | ------  | ----------- |
+   | Page 1  | sbwhjcbjkcb |
