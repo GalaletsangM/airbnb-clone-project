@@ -27,4 +27,6 @@ The goal is to build a functional web application that allows users to browse pr
 4. Primary Pages
    |  Pages  | Description |
    | ------  | ----------- |
-   | Page 1  | sbwhjcbjkcb |
+   | Property Listing View  | Grid display of available properties with filters |
+   | Listing Detailed View  | Complete property details with images and booking form |
+   | Simple Checkout View  | Streamlined payment and booking confirmation |
