@@ -60,3 +60,22 @@ The goal is to build a functional web application that allows users to browse pr
 | DevOps Engineers | Manages deployment, CI/CD pipeline, server infrastructure |
 | Product Owner | Defines requirements, prioritizes features, represents stakeholders |
 | Scrum Master | Facilitates agile processes, removes blockers, organizes meetings |
+
+# UI Component Patterns
+1. Navbar
+   Logo
+   Search bar
+   User navigation
+   Responsive menu
+   Property Card
+
+2. Property image
+   Basic details (price, location, rating)
+   Favorite button
+   Responsive layout
+
+3. Footer
+   Site links
+   Company information
+   Social media links
+   Copyright information
