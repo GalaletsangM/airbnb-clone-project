@@ -33,3 +33,18 @@ The goal is to build a functional web application that allows users to browse pr
 
 5. Importance of a user-frindly design
    A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
+
+6. List of Color Styles
+   * Primary: #FF5A5F
+   * Secondary: #008489
+   * Background: #FFFFFF
+   * Text: #222222
+   * Secondary Text: #717171
+     
+8. List of Typography
+   * Primary Font: Circular, Medium (500), 16px
+   * Headings: Circular, Bold (700), 24px-32px
+   * Secondary Text: Circular, Book (400), 14px
+     
+10. Importance of identifying design properties of a mock up design
+   It ensures design consistency, clear communication between designers and developers, accurate implementation, and efficient updates or scalling of the design.
