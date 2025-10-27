@@ -11,7 +11,7 @@ The goal is to build a functional web application that allows users to browse pr
 2. Version Control : Git and GitHub
 3. Design Tools : Figma for UI/UX design
 
-# UI/UX  Design Planning.
+# UI/UX Design Planning
 1. Design Goals
    * Create intuitive booking flow
    * Maintain visula consistency
